@@ -18,4 +18,11 @@ sls invoke local -f hello --log
 
 #configurar dashboard
 
-sls 
+sls
+
+#logs 
+
+sls logs -f hello -t
+
+#remover 
+sls remove
