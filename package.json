@@ -1,0 +1,20 @@
+{
+  "name": "serverless-aws",
+  "version": "1.0.0",
+  "description": "serverless-aws",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ltopin/serverless-aws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ltopin/serverless-aws/issues"
+  },
+  "homepage": "https://github.com/ltopin/serverless-aws#readme"
+}
